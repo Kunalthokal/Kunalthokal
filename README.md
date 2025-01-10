@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and python 
 - 💞️ I’m looking to collaborate on some new interships
 - 📫 How to reach me at Amravati kathora naka 444001
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Venus is the only planet to spin clockwise
 
 <!---
